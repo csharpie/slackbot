@@ -27,15 +27,12 @@ SLACK_OAUTH_TOKEN = os.environ.get('SLACK_OAUTH_TOKEN')
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'whek9oare2zi--ree_r11y-%di@qluq=jr=7n7zhjh!_$io$ld'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '3b1dc831.ngrok.io',
-    'fambotapp.herokuapp.com'
-]
+ALLOWED_HOSTS = []
 
 
 # Application definition
