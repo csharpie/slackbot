@@ -1,1 +1,1 @@
-web: python manage.py runserver --settings=production
+web: gunicorn slack.wsgi
