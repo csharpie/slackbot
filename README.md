@@ -34,4 +34,4 @@ This project was created out of a need to organize pinned items in our Slack cha
 * Deploying a Django App to Heroku
 	* https://devcenter.heroku.com/articles/deploying-python
 
-Please feel free to make for this project and make pull requests!
+Please feel free to fork this project and make pull requests!
